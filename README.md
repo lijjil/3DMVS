@@ -22,7 +22,7 @@
 * openMVG
 * openMVS
 * Qt 		5.14.1
-* openCV 		3.4.2 & openCV 3.4.2_contrib
+* openCV 		3.4.2 
 * VCG		1.0.1
 * CGAL		5.0.2
 * Boost 		1.71

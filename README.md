@@ -8,7 +8,7 @@
     <td><img src="3DMVS.png"  ></td>
   </tr>
   <tr>
-    <td>3DMVS</td>
+    
   </tr>
 </table>
 

@@ -3,14 +3,9 @@
   本项目提供一个纯视觉三维重建解决方案，以及基于Qt的可视化桌面平台。 项目可将原始图像进行特征匹配重建为三维点云，重建深度图为3D点云，稠密重建，纹理映射，生成纹理模型。
 本项目基于openMVG和openMVS库做二次开发，并加入扩展性功能， 最后用Qt设计一个Liunx系统下的 GUI桌面程序，呈现不同算子在三维重建中的效果并快速可视化。
 
- <table align="center">
-  <tr>
-    <td><img src="3DMVS.png"  ></td>
-  </tr>
-  <tr>
-    
-  </tr>
-</table>
+<p align="center">
+<img src="https://github.com/lijjil/3DMVS/blob/main/3DMVS.png">
+<p/>
 
 
 ### Feature：
